@@ -1,3 +1,6 @@
+// Name:- Athif Ahamed Mohamed Shaffy
+// Student Id:- A00256229
+
 import java.util.*;
 
 public class DiceGame {
