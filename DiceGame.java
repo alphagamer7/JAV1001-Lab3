@@ -89,7 +89,7 @@ public class DiceGame {
         private String type;
         private int numberOfSides;
         private int currentSideUp;
-        public int desiredSideUp;
+        private int desiredSideUp;
 
 
         // desiredSideUp setter
